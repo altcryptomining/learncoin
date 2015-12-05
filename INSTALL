@@ -1,0 +1,9 @@
+Building Learncoin
+
+See doc/readme-qt.rst for instructions on building Learncoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Learncoin.
+
+See doc/build-*.txt for instructions on building learncoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Learncoin.
